@@ -1,2 +1,2 @@
 # homework01
-台中市景點網頁製作
+用Sublime Text製作台中市景點網頁
